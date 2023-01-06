@@ -1,0 +1,88 @@
+body {
+    background-color: lightgrey;
+}
+
+
+.header {
+    
+}
+
+.nav {
+    background-color: rgb(190, 190, 190);
+    
+    
+}
+
+.navbutton {
+    display: inline-block;
+    padding: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    background-color: rgb(136, 137, 138);
+}
+
+.mainpage {
+}
+
+.leftbar {
+    float: left;
+    width: 29%;
+}
+
+.petimage {
+    padding: 50px;
+    text-align: center;
+    background-color: rgb(192, 249, 230);
+}
+
+.petstats {
+    text-align: left;
+    padding: 30px;
+    background-color: rgb(255, 247, 226);
+}
+
+.petinfo {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.petpage {
+    float: left;
+    border: 1px solid green;
+}
+
+.petpagetop {
+
+}
+
+.mainimage {
+   
+}
+
+.story {
+
+}
+
+.petpictures {
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
